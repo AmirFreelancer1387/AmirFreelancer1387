@@ -144,16 +144,6 @@ A modern news website with API integration and responsive UI.
 
 ---
 
-### 🎮 Game Shop
-
-A modern gaming store website with a dark UI and responsive design.
-
-**Tech Stack**
-
-`HTML` `CSS` `Bootstrap` `JavaScript` `AOS`
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
